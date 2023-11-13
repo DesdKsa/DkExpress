@@ -25,4 +25,4 @@ DkExpress provides a solid foundation for optimizing performance, ensuring a smo
 To install DkExpress, use the following Composer command:
 
 ```bash
-composer require your-username/dkexpress
+composer require desdksa/dkexpress
