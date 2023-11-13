@@ -1,6 +1,16 @@
-"repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/DesdKsa/DkExpress"
+{
+    "name": "desdksa/dkexpress",
+    "type": "library",
+    "description": "DkExpress Framework",
+    "keywords": ["framework", "dkexpress"],
+    "license": "MIT",
+    "require": {
+        "php": "^8.0.2",
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "DkExpress\\": "src/"
+        }
     }
-],
+}
