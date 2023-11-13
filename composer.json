@@ -1,5 +1,5 @@
 {
-    "name": "desdksa/dkexpress",
+    "desdksa/dk-express": "dev-main"
     "type": "library",
     "description": "DkExpress Framework",
     "keywords": ["framework", "dkexpress"],
