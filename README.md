@@ -26,3 +26,8 @@ Para instalar DkExpress, utiliza el siguiente comando de Composer:
 
 ```bash
 composer require desdksa/dkexpress
+```
+```php
+<?php echo DkExpress::getVersion(); ?>
+
+```
